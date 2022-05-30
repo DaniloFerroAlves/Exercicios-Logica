@@ -1,0 +1,22 @@
+D:\Visual Studio\Aumentosalario\bin\Debug\Aumentosalario.exe.config
+D:\Visual Studio\Aumentosalario\bin\Debug\Aumentosalario.exe
+D:\Visual Studio\Aumentosalario\bin\Debug\Aumentosalario.pdb
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.csproj.AssemblyReference.cache
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.Form1.resources
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.Properties.Resources.resources
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.csproj.GenerateResource.cache
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.exe
+D:\Visual Studio\Aumentosalario\obj\Debug\Aumentosalario.pdb
+D:\clone\bin\Debug\Aumentosalario.exe.config
+D:\clone\bin\Debug\Aumentosalario.exe
+D:\clone\bin\Debug\Aumentosalario.pdb
+D:\clone\obj\Debug\Aumentosalario.csproj.AssemblyReference.cache
+D:\clone\obj\Debug\Aumentosalario.csproj.SuggestedBindingRedirects.cache
+D:\clone\obj\Debug\Aumentosalario.Form1.resources
+D:\clone\obj\Debug\Aumentosalario.Properties.Resources.resources
+D:\clone\obj\Debug\Aumentosalario.csproj.GenerateResource.cache
+D:\clone\obj\Debug\Aumentosalario.csproj.CoreCompileInputs.cache
+D:\clone\obj\Debug\Aumentosalario.exe
+D:\clone\obj\Debug\Aumentosalario.pdb

@@ -1,0 +1,11 @@
+D:\Visual Studio\Percentualproduto\bin\Debug\Percentualproduto.exe.config
+D:\Visual Studio\Percentualproduto\bin\Debug\Percentualproduto.exe
+D:\Visual Studio\Percentualproduto\bin\Debug\Percentualproduto.pdb
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.csproj.AssemblyReference.cache
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.Form1.resources
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.Properties.Resources.resources
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.csproj.GenerateResource.cache
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.exe
+D:\Visual Studio\Percentualproduto\obj\Debug\Percentualproduto.pdb

@@ -1,0 +1,20 @@
+D:\Primeira Aula - C#\Numeromes\bin\Debug\Numeromes.exe.config
+D:\Primeira Aula - C#\Numeromes\bin\Debug\Numeromes.exe
+D:\Primeira Aula - C#\Numeromes\bin\Debug\Numeromes.pdb
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.csproj.AssemblyReference.cache
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.Form1.resources
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.Properties.Resources.resources
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.csproj.GenerateResource.cache
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.csproj.CoreCompileInputs.cache
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.exe
+D:\Primeira Aula - C#\Numeromes\obj\Debug\Numeromes.pdb
+D:\Visual\Numeromes\bin\Debug\Numeromes.exe.config
+D:\Visual\Numeromes\bin\Debug\Numeromes.exe
+D:\Visual\Numeromes\bin\Debug\Numeromes.pdb
+D:\Visual\Numeromes\obj\Debug\Numeromes.csproj.AssemblyReference.cache
+D:\Visual\Numeromes\obj\Debug\Numeromes.Form1.resources
+D:\Visual\Numeromes\obj\Debug\Numeromes.Properties.Resources.resources
+D:\Visual\Numeromes\obj\Debug\Numeromes.csproj.GenerateResource.cache
+D:\Visual\Numeromes\obj\Debug\Numeromes.csproj.CoreCompileInputs.cache
+D:\Visual\Numeromes\obj\Debug\Numeromes.exe
+D:\Visual\Numeromes\obj\Debug\Numeromes.pdb

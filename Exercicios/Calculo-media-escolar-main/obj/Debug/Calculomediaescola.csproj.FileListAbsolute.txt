@@ -1,0 +1,11 @@
+D:\Visual Studio\Calculomediaescola\bin\Debug\Calculomediaescola.exe.config
+D:\Visual Studio\Calculomediaescola\bin\Debug\Calculomediaescola.exe
+D:\Visual Studio\Calculomediaescola\bin\Debug\Calculomediaescola.pdb
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.csproj.AssemblyReference.cache
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.Form1.resources
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.Properties.Resources.resources
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.csproj.GenerateResource.cache
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.exe
+D:\Visual Studio\Calculomediaescola\obj\Debug\Calculomediaescola.pdb

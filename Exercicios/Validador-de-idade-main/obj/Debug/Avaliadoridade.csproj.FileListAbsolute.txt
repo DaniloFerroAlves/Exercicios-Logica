@@ -1,0 +1,11 @@
+D:\Visual Studio\Avaliadoridade\bin\Debug\Avaliadoridade.exe.config
+D:\Visual Studio\Avaliadoridade\bin\Debug\Avaliadoridade.exe
+D:\Visual Studio\Avaliadoridade\bin\Debug\Avaliadoridade.pdb
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.csproj.AssemblyReference.cache
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.Form1.resources
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.Properties.Resources.resources
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.csproj.GenerateResource.cache
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.exe
+D:\Visual Studio\Avaliadoridade\obj\Debug\Avaliadoridade.pdb

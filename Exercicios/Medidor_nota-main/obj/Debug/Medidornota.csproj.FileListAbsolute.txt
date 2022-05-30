@@ -1,0 +1,11 @@
+D:\Visual Studio\Medidornota\bin\Debug\Medidornota.exe.config
+D:\Visual Studio\Medidornota\bin\Debug\Medidornota.exe
+D:\Visual Studio\Medidornota\bin\Debug\Medidornota.pdb
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.csproj.AssemblyReference.cache
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.Form1.resources
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.Properties.Resources.resources
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.csproj.GenerateResource.cache
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.exe
+D:\Visual Studio\Medidornota\obj\Debug\Medidornota.pdb

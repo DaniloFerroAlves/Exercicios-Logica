@@ -1,0 +1,11 @@
+D:\Visual studio\salariofuncionario\bin\Debug\salariofuncionario.exe.config
+D:\Visual studio\salariofuncionario\bin\Debug\salariofuncionario.exe
+D:\Visual studio\salariofuncionario\bin\Debug\salariofuncionario.pdb
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.csproj.AssemblyReference.cache
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.Form1.resources
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.Properties.Resources.resources
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.csproj.GenerateResource.cache
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.csproj.CoreCompileInputs.cache
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.exe
+D:\Visual studio\salariofuncionario\obj\Debug\salariofuncionario.pdb
