@@ -1,4 +1,4 @@
-# Exercicios_Simples
+# Exercicios Simples
 Meus primeiros exercicios de lógica.
 
 [[Aumento Salarial](https://github.com/DaniloFerroAlves/Exercicios_Simples/tree/main/Exercicios/Aumento_salarial-main)]
